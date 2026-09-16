@@ -16,7 +16,6 @@ Me chamo Geovanna Gabrielle, tenho 20 anos e sou de Brasília. Concluí o ensino
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-0D1117?style=for-the-badge&logo=atom&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
